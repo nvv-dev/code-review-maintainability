@@ -1,0 +1,16 @@
+{
+  "name": "code-review-maintainability",
+  "version": "0.1.0",
+  "description": "Reviews shape, not bugs: size, branching, shallow modules, leaky layers; few high-conviction comments.",
+  "author": {
+    "name": "nvvdev",
+    "url": "https://github.com/nvv-dev"
+  },
+  "homepage": "https://github.com/nvv-dev/code-review-maintainability",
+  "repository": "https://github.com/nvv-dev/code-review-maintainability",
+  "license": "MIT",
+  "keywords": [
+    "skill",
+    "dev-workflow"
+  ]
+}
